@@ -1,6 +1,6 @@
 # KamKubKubSim
 Skupinová práce
-Název hry: 
+Název hry:CoreProtocol
 
 Role týmu na první měsíc:
 Vedoucí projektu-Šimon
