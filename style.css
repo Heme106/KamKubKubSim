@@ -29,6 +29,7 @@ body {
 
 button {
     display: block;
+    padding-top: 20px;
 }
 
 .mechaniky-text {
