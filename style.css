@@ -26,3 +26,18 @@ body {
     max-width: 1200px;
     padding: 20px;
 }
+
+.mechaniky h3 {
+    font-size: 24px;
+    text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
+    font-weight: bold;
+    padding: 40px;
+}
+
+.mechaniky p {
+    font-size: 18px;
+    text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
+    font-weight: normal;
+    max-width: 900px;
+    padding: 40px;
+}
