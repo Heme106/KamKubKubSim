@@ -30,6 +30,7 @@ body {
 button {
     display: block;
     margin: 20px;
+    text-align: center;
 }
 
 .mechaniky-text {
