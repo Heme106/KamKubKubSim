@@ -27,7 +27,16 @@ body {
     padding-left: 20px;
 }
 
-.mechaniky-text {
+.mechaniky-text h3 {
+    font-size: 20px;
+    text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
+    font-weight: bold;
+    max-width: 900px;
+    padding-left: 40px;
+    display: none;
+}
+
+.mechaniky-text p {
     font-size: 18px;
     text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
     font-weight: normal;
@@ -42,6 +51,41 @@ body {
 }
 
 .mechaniky {
+    box-sizing: auto 30px;
+    box-shadow: 15px -5px 9px 7px rgba(0,0,0,0.75);
+    cursor: pointer;
+    transition: all;
+    font-size: 24px;
+    text-shadow: -2px -1px 3px rgba(0,0,0,0.50);
+    font-weight: bold;
+    padding-left: 40px;
+    text-align: center;
+}
+
+.typy-text h3 {
+    font-size: 20px;
+    text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
+    font-weight: bold;
+    max-width: 900px;
+    padding-left: 40px;
+    display: none;
+}
+
+.typy-text p {
+    font-size: 18px;
+    text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
+    font-weight: normal;
+    max-width: 900px;
+    padding-left: 40px;
+    display: none;
+}
+
+.typy-text.open {
+    padding-left: 40px;
+    display: block;
+}
+
+.typy {
     box-sizing: auto 30px;
     box-shadow: 15px -5px 9px 7px rgba(0,0,0,0.75);
     cursor: pointer;
