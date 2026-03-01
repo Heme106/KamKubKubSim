@@ -4,10 +4,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-p {
-    margin top: 6px;
-}
-
 .nazev {
     font-size: 48px;
     text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
@@ -44,4 +40,5 @@ p {
     font-weight: normal;
     max-width: 900px;
     padding: 40px;
+    margin: 5px 0;
 }
