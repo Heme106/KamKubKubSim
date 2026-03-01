@@ -16,11 +16,13 @@ body {
     text-shadow: black;
     text-align: left;
     font-weight: bold;
+    padding: 20px;
 }
 
 .basicinfo p {
     font-size: 26px;
     text-shadow: black;
     font-weight: normal;
-    max-width: 1200px;
+    max-width: 1200px;¨
+    padding: 20px;
 }
