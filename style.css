@@ -27,16 +27,7 @@ body {
     padding-left: 20px;
 }
 
-.mechaniky-text h3 {
-    font-size: 20px;
-    text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
-    font-weight: bold;
-    max-width: 900px;
-    padding-left: 40px;
-    display: none;
-}
-
-.mechaniky-text p {
+.mechaniky-text {
     font-size: 18px;
     text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
     font-weight: normal;
@@ -62,16 +53,7 @@ body {
     text-align: center;
 }
 
-.typy-text h3 {
-    font-size: 20px;
-    text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
-    font-weight: bold;
-    max-width: 900px;
-    padding-left: 40px;
-    display: none;
-}
-
-.typy-text p {
+.typy-text {
     font-size: 18px;
     text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
     font-weight: normal;
