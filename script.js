@@ -1,11 +1,7 @@
 const button = document .getElementById("mech")
+const text = document .getElementById("text")
 
-
-button.addEventListener("click", () => {
-
-    const context = button .getElementById("mech-text")
-
-    context.classList.toggle("open")
-
-
+button.addEventListener("click", function() {
+    text.classList.toggle("open")
+    
 })
