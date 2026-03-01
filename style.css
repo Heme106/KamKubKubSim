@@ -34,10 +34,22 @@ body {
     padding-left: 40px;
 }
 
-.mechaniky p {
+.mechaniky-text p {
     font-size: 18px;
     text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
     font-weight: normal;
     max-width: 900px;
     padding-left: 40px;
+    transition: max-height 0.4s ease;
+}
+
+.mechaniky-text.open {
+    max-height: 900px;
+    padding-left: 40px;
+}
+
+.mechaniky {
+    box-shadow: 20px -8px 12px 9px rgba(0,0,0,0.75);
+    cursor: pointer;
+    transition: all;
 }
