@@ -1,12 +1,26 @@
 body {
-background-color: #211438;
-color: white;
-font-family: Arial, Helvetica, sans-serif;
+    background-color: #1c024b;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
 .nazev {
     font-size: 48px;
     text-shadow: black;
     text-align: center;
     font-weight: bold;
+}
 
+.basicinfo h2 {
+    font-size: 32px;
+    text-shadow: black;
+    text-align: left;
+    font-weight: bold;
+}
+
+.basicinfo p {
+    font-size: 26px;
+    text-shadow: black;
+    font-weight: normal;
+    max-width: 900px;
 }
