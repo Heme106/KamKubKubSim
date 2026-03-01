@@ -29,7 +29,7 @@ body {
 
 button {
     display: block;
-    padding-top: 20px;
+    margin: 20px;
 }
 
 .mechaniky-text {
