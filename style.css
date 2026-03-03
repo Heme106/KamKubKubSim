@@ -48,7 +48,7 @@ button {
 
 .mechaniky {
     box-sizing: auto 30px;
-    box-shadow: 8px -4px 7px 6px rgba(0,0,0,0.75);
+    box-shadow: 8px -4px 6px 6px rgba(0,0,0,0.75);
     cursor: pointer;
     transition: all;
     font-size: 24px;
@@ -73,7 +73,7 @@ button {
 
 .typy {
     box-sizing: auto 30px;
-    box-shadow: 8px -4px 7px 6px rgba(0,0,0,0.75);
+    box-shadow: 8px -4px 6px 6px rgba(0,0,0,0.75);
     cursor: pointer;
     transition: all;
     font-size: 24px;
@@ -98,7 +98,7 @@ button {
 
 .příběh {
     box-sizing: auto 30px;
-    box-shadow: 8px -4px 7px 6px rgba(0,0,0,0.75);
+    box-shadow: 8px -4px 6px 6px rgba(0,0,0,0.75);
     cursor: pointer;
     transition: all;
     font-size: 24px;
