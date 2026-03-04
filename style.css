@@ -135,15 +135,16 @@ button {
 
 .diagram-obrázek {
     display: none;
-    padding-left: 1200px;
+    padding-left: 1000px;
 }
 
 .diagram-obrázek.open {
     display: block;
-    padding-left: 1200px;
+    padding-left: 1000px;
 }
 
 .diagram {
+    padding-left: 1000px;
     margin-top: 100px;
     box-sizing: auto 30px;
     box-shadow: 8px -4px 6px 6px rgba(0,0,0,0.75);
