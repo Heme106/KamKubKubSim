@@ -134,12 +134,12 @@ button {
 }
 
 .diagram-obrázek {
-    display: none;
+    visibility: hidden;
     padding-left: 1000px;
 }
 
 .diagram-obrázek.open {
-    display: block;
+    visibility: visible;
     padding-left: 1000px;
 }
 
