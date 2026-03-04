@@ -132,3 +132,25 @@ button {
     font-weight: bold;
     text-align: center;
 }
+
+.diagram-obrázek {
+    display: none;
+    padding-left: 1200px;
+}
+
+.diagram-obrázek.open {
+    display: block;
+    padding-left: 1200px;
+}
+
+.diagram {
+    margin-top: 100px;
+    box-sizing: auto 30px;
+    box-shadow: 8px -4px 6px 6px rgba(0,0,0,0.75);
+    cursor: pointer;
+    transition: all;
+    font-size: 24px;
+    text-shadow: -2px -1px 3px rgba(0,0,0,0.50);
+    font-weight: bold;
+    text-align: center;
+}
