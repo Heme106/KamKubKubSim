@@ -136,11 +136,13 @@ button {
 .diagram-obrázek {
     display: none;
     padding-left: 1015px;
+    height: 3000px;
 }
 
 .diagram-obrázek.open {
     display: block;
     padding-left: 1015px;
+    height: 3000px;
 }
 
 .diagram {
