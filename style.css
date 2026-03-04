@@ -155,3 +155,17 @@ button {
     font-weight: bold;
     text-align: center;
 }
+
+.diagram:hover {
+    margin-left: 1290px;
+    margin-top: 150px;
+    box-sizing: auto 30px;
+    box-shadow: 8px -4px 6px 6px rgba(0,0,0,0.75);
+    cursor: pointer;
+    transform: scale(1.2);
+    transition: transform 0.3s;
+    font-size: 24px;
+    text-shadow: -2px -1px 3px rgba(0,0,0,0.50);
+    font-weight: bold;
+    text-align: center;
+}
