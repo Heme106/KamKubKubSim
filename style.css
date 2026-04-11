@@ -33,7 +33,7 @@ button {
     margin: 20px;
     color: #ff4444;
     background-color: transparent;
-
+    border: #3d0000 2px solid;
 }
 
 .mechaniky-text {
