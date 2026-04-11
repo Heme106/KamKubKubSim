@@ -7,8 +7,11 @@ const text1 = document .getElementById("text1")
 const příb = document .getElementById("příb")
 const text2 = document .getElementById("text2")
 
-const výv = document .getElementById("výv")
+const zbraň = document .getElementById("zbraň")
 const text3 = document .getElementById("text3")
+
+const výv = document .getElementById("výv")
+const text4 = document .getElementById("text4")
 
 const dia = document .getElementById("dia")
 const diagram_vývoj = document .getElementById("diagram_vývoj")
@@ -25,8 +28,12 @@ function otevrit_pribeh () {
     text2.classList.toggle("open")
 }
 
-function otevrit_vyvoj () { 
+function otevrit_zbran () {
     text3.classList.toggle("open")
+}
+
+function otevrit_vyvoj () { 
+    text4.classList.toggle("open")
 }
 
 function otevrit_obrazek () { 
@@ -38,6 +45,8 @@ mech.addEventListener("click", otevrit_mechaniky)
 typ.addEventListener("click", otevrit_typy)
 
 příb.addEventListener("click", otevrit_pribeh)
+
+zbraň.addEventListener("click", otevrit_zbran)
 
 výv.addEventListener("click", otevrit_vyvoj)
 
