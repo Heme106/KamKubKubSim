@@ -23,7 +23,6 @@ body {
     text-align: left;
     font-weight: bold;
     padding-left: 20px;
-    margin-bottom: 200px;
 }
 
 .basicinfo p {
@@ -32,7 +31,6 @@ body {
     font-weight: normal;
     max-width: 1200px;
     padding-left: 20px;
-    margin-bottom: 20px;
 }
 
 button {
@@ -50,13 +48,11 @@ button {
     max-width: 900px;
     padding-left: 40px;
     display: none;
-    margin-bottom: 20px;
 }
 
 .mechaniky-text.open {
     padding-left: 40px;
     display: block;
-    margin-bottom: 20px;
 }
 
 .mechaniky {
@@ -91,13 +87,11 @@ button {
     max-width: 900px;
     padding-left: 40px;
     display: none;
-    margin-bottom: 20px;
 }
 
 .typy-text.open {
     padding-left: 40px;
     display: block;
-    margin-bottom: 20px;
 }
 
 .typy {
@@ -132,13 +126,11 @@ button {
     max-width: 900px;
     padding-left: 40px;
     display: none;
-    margin-bottom: 20px;
 }
 
 .příběh-text.open {
     padding-left: 40px;
     display: block;
-    margin-bottom: 20px;
 }
 
 .příběh {
@@ -172,13 +164,11 @@ button {
     max-width: 900px;
     padding-left: 40px;
     display: none;
-    margin-bottom: 20px;
 }
 
 .zbraně-text.open {
     padding-left: 40px;
     display: block;
-    margin-bottom: 20px;
 }
 
 .zbraně {
@@ -213,13 +203,11 @@ button {
     max-width: 900px;
     padding-left: 40px;
     display: none;
-    margin-bottom: 20px;
 }
 
 .vývoj-text.open {
     padding-left: 40px;
     display: block;
-    margin-bottom: 20px;
 }
 
 .vývoj {
