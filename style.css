@@ -23,6 +23,7 @@ body {
     text-align: left;
     font-weight: bold;
     padding-left: 20px;
+    margin-bottom: 20px;
 }
 
 .basicinfo p {
@@ -31,6 +32,7 @@ body {
     font-weight: normal;
     max-width: 1200px;
     padding-left: 20px;
+    margin-bottom: 20px;
 }
 
 button {
@@ -48,11 +50,13 @@ button {
     max-width: 900px;
     padding-left: 40px;
     display: none;
+    margin-bottom: 20px;
 }
 
 .mechaniky-text.open {
     padding-left: 40px;
     display: block;
+    margin-bottom: 20px;
 }
 
 .mechaniky {
@@ -87,11 +91,13 @@ button {
     max-width: 900px;
     padding-left: 40px;
     display: none;
+    margin-bottom: 20px;
 }
 
 .typy-text.open {
     padding-left: 40px;
     display: block;
+    margin-bottom: 20px;
 }
 
 .typy {
@@ -126,11 +132,13 @@ button {
     max-width: 900px;
     padding-left: 40px;
     display: none;
+    margin-bottom: 20px;
 }
 
 .příběh-text.open {
     padding-left: 40px;
     display: block;
+    margin-bottom: 20px;
 }
 
 .příběh {
@@ -164,11 +172,13 @@ button {
     max-width: 900px;
     padding-left: 40px;
     display: none;
+    margin-bottom: 20px;
 }
 
 .zbraně-text.open {
     padding-left: 40px;
     display: block;
+    margin-bottom: 20px;
 }
 
 .zbraně {
@@ -203,11 +213,13 @@ button {
     max-width: 900px;
     padding-left: 40px;
     display: none;
+    margin-bottom: 20px;
 }
 
 .vývoj-text.open {
     padding-left: 40px;
     display: block;
+    margin-bottom: 20px;
 }
 
 .vývoj {
@@ -272,12 +284,6 @@ button {
     text-align: center;
     background-color: #ff0000;
     color: black;
-}
-
-.press-start-2p-regular {
-    font-family: "Press Start 2P", system-ui;
-    font-weight: 400;
-    font-style: normal;
 }
 
 .press-start-2p-regular {
