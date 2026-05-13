@@ -13,3 +13,9 @@ Vedoucí projektu-Darsa
 Designér-Šimon
 Copywriter-Kamča
 Vývojář-Hemerka
+
+Role týmu na třetí měsíc:
+Vedoucí projektu-Kamča
+Designér-Hemerka
+Copywriter-Darsa
+Vývojář-Šimon
