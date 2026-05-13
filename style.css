@@ -10,10 +10,6 @@ body {
     width: 360px;
 }
 
-h1 {
-    padding-top: 45px;
-}
-
 .nazev {
     display: flex;
     font-size: 48px;
