@@ -301,9 +301,8 @@ button {
     font-style: normal;
 }
 
-.montserrat {
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
+.tomorrow-regular {
+    font-family: "Tomorrow", sans-serif;
     font-weight: 400;
     font-style: normal;
-  }
+}
