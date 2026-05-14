@@ -250,6 +250,10 @@ button {
     color: black;
 }
 
+.diagram-obrázek {
+    text-align: center;
+}
+
 .diagram {
     margin-left: 1290px;
     margin-top: 150px;
