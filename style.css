@@ -48,6 +48,7 @@ body {
 }
 
 button {
+    font-family: "Tomorrow";
     display: block;
     margin: 20px;
     color: #ffecec;
