@@ -250,16 +250,6 @@ button {
     color: black;
 }
 
-.diagram-obrázek {
-    display: none;
-    padding-left: 1015px;
-}
-
-.diagram-obrázek.open {
-    display: block;
-    padding-left: 1015px;
-}
-
 .diagram {
     margin-left: 1290px;
     margin-top: 150px;
