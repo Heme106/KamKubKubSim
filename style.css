@@ -298,7 +298,7 @@ button {
 }
 
 .zpátky {
-    padding-left: 400px;
+    margin-left: 400px;
     box-sizing: auto 30px;
     box-shadow: 8px -4px 6px 6px rgba(0,0,0,0.75);
     cursor: pointer;
@@ -310,7 +310,7 @@ button {
 }
 
 .zpátky:hover {
-    padding-left: 400px;
+    margin-left: 400px;
     box-sizing: auto 30px;
     box-shadow: 8px -4px 6px 6px rgba(0,0,0,0.75);
     cursor: pointer;
