@@ -212,16 +212,11 @@ button {
 }
 
 .vývoj-text {
-    font-size: 18px;
+    font-size: 26px;
     text-shadow: -3px -2px 4px rgba(0,0,0,0.61);
     font-weight: normal;
     max-width: 900px;
-    padding-left: 40px;
-    display: none;
-}
-
-.vývoj-text.open {
-    padding-left: 40px;
+    padding-left: 20px;
     display: block;
 }
 
