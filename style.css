@@ -299,6 +299,7 @@ button {
 }
 
 .zpátky {
+    font-family: "Tomorrow";
     margin-left: auto;
     margin-right: auto;
     box-sizing: auto 30px;
@@ -312,6 +313,7 @@ button {
 }
 
 .zpátky:hover {
+    font-family: "Tomorrow";
     margin-left: auto;
     margin-right: auto;
     box-sizing: auto 30px;
